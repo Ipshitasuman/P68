@@ -13,7 +13,7 @@ export default class Insta extends React.Component{
           }}
         />
 
-<Text style ={{fontSize:30, fontFamily: 'cursive', fontWeight: 'bold', fontAlign:'center', marginTop:80, marginLeft: 60 }}>
+<Text style ={{fontSize:30, fontFamily: 'cursive', fontWeight: 'bold', fontAlign:'center', marginTop:80, marginLeft: 40 }}>
                 Instagram
               </Text>
             </View>
