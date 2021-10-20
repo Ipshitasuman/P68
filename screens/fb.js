@@ -12,7 +12,7 @@ export default class Fbook extends React.Component{
               'https://pyxis.nymag.com/v1/imgs/11d/582/c7b0487c6e26db4f5be6eb679e3620d2ce-facebook.rsquare.w1200.jpg',
           }}
         />
-              <Text style ={{fontSize:30, fontFamily: 'cursive', fontWeight: 'bold', fontAlign:'center', marginTop:80, marginLeft: 50 }}>
+              <Text style ={{fontSize:30, fontFamily: 'cursive', fontWeight: 'bold', fontAlign:'center', marginTop:80, marginLeft: 40 }}>
                 Facebook
               </Text>
             </View>
